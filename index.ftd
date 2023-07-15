@@ -15,7 +15,7 @@
 ;; ***** PORTFOLIO Header starts *****
 ;; ----------------------------------------------------------------
 
--- navbar.header:
+-- navbar.header\:
 logo: $assets.files.images.logo.svg
 logoURL: /portfoliowithfastn
 header-item1: Home
